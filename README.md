@@ -1,7 +1,7 @@
 # sspipe
 # Stellar Spectroscopy Analysis Pipeline
 
-This is a Python package that takes a stellar spectrum and automatically:
+This is a Python script that takes a stellar spectrum and automatically:
 
 -Loads FITS data,
 -Normalizes the spectrum,
