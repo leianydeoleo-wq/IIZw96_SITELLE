@@ -1,13 +1,8 @@
 # sspipe
-# Stellar Spectroscopy Analysis Pipeline
+# Leiany De Oleo
 
-This is a Python script that takes a stellar spectrum and automatically:
+Welcome!
 
--Loads FITS data,
--Normalizes the spectrum,
--Identifies absorption/emission lines,
--Measures line properties,
--Estimates radial velocity,
--Produces publication-quality plots,
--Generates a report
+I'm an undergraduate researcher working on extragalactic astronomy.  This is collection of computational astrophysics workflows developed through research projects, internships, and independent work. These repositories show how I approach astronomical data retrieval, analysis, visualization, and scientific interpretation using Python and related tools.
+
 
